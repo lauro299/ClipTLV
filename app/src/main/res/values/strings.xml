@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClipTLV</string>
+    <string name="captura">Captura Cadena TLV</string>
+</resources>
